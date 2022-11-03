@@ -1,5 +1,5 @@
 {
-    "name": "MiraiBypassCaoChungDat",
+    "name": "MiraiBypassByNguyen",
     "version": "1.2.15",
     "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
     "main": "mirai.js",
@@ -12,7 +12,7 @@
         "type": "git",
         "url": "git+https://github.com/anhtachoi/Mirai-V2.git"
     },
-    "author": "Cao.C.Đạt",
+    "author": "Nguyen",
     "license": "GPL-3.0",
     "dependencies": {
         "@miraipr0ject/assets": "",
